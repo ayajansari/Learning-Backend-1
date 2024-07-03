@@ -1,0 +1,1 @@
+npm init ->to intialize folder as node package
