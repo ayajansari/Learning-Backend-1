@@ -1,0 +1,6 @@
+npm init ->to intialize folder as node package
+added start script-> in package.json so that we can use 
+npm run start and "node index.js" command will be triggered
+npm i dotenv-> Dotenv is a zero-dependency module that loads environment variables 
+from a .env file into process.env
+create .gitignore
